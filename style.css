@@ -1,0 +1,141 @@
+html {
+    font-size:16px;
+}
+
+body {
+    margin: 0;
+    font-family: PingFang SC, sans-serif;
+}
+
+.top {
+    background-color: #1671F0;
+    width: 100%;
+}
+
+#photo-border {
+    width: 106px;
+    height: 136px;
+    margin: 15px;
+    display: inline-block;
+    background-color: white;
+}
+
+#photo {
+    width: 100px;
+    height: 130px;
+    margin: 3px;
+}
+
+#xhxm {
+    display: inline-block;
+    color: white;
+    width: calc(-160px + 100vw);
+    box-sizing: border-box;
+    line-height: 30px;
+    margin-top: 30px;
+    vertical-align: top;
+}
+
+#bks {
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+.middle {
+    background-color: white;
+    padding-top: 10px;
+}
+
+#dqsj {
+    font-weight: 500;
+    font-style: normal;
+    font-size: 18px;
+    color: #92969C;
+    line-height: 24px;
+    padding-left: 25px;
+}
+
+#clock {
+    font-weight: 700;
+    font-style: normal;
+    font-size: 36px;
+    color: #2F343B;
+    text-align: center;
+    padding-left: 25px;
+}
+
+#bddj {
+    line-height: 30px;
+    padding-top: 8px;
+    font-size: 14px;
+    padding-left: 25px;
+}
+
+#wcsj {
+    line-height: 30px;
+    padding-top: 8px;
+    font-size: 14px;
+    padding-left: 25px;
+}
+
+#orange {
+    color: orange;
+}
+
+#code-border {
+    border: 1px solid rgb(232, 232, 232);
+    width: 250px;
+    height: 240px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8px;
+    position: relative;
+}
+
+#blue {
+    height: 30px;
+}
+
+#bks2 {
+    color: white;
+    position: absolute;
+    top: 4px;
+    left: 31px;
+}
+
+#code-box {
+    width: 170px;
+    height: 170px;
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#code {
+    margin: 10px;
+}
+
+#xiaonei {
+    line-height: 30px;
+    padding-top: 8px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.bottom {
+    height: 100%;
+}
+
+#tianchong {
+    height: calc(100% - 100px);
+    overflow: scroll;
+}
+
+#bottom4 {
+    width: 100%;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
